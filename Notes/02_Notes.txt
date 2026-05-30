@@ -1,0 +1,5 @@
+How does ts executes?
+
+First we write TS code it goes to lexer then it goes to parser then goes to binder then to checker (not available in js) then goes to emitter then finally it generate .js file and .d.ts file also. 
+
+

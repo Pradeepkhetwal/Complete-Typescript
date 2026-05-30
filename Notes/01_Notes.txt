@@ -1,0 +1,13 @@
+TS goes through a process and converts into js.
+
+TS is js with more superpowers.
+
+In TS we commonly refers to Types these are mainly DataTypes.
+
+There is a power of TypeChecker which brings consistency in the code in TypeScript.
+
+What is TypeChecker?
+TypeChecker is a tool that checks the types of variables, functions, and other elements in your code. It ensures that you are using the correct types and helps catch errors before you run your code. This is especially useful in larger projects where it can be easy to make mistakes with types. The TypeChecker can also provide helpful error messages and suggestions for fixing type-related issues.
+
+In Modern editor they provide support to TypeScript so there is no need to install it explicitly.
+

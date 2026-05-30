@@ -1,0 +1,3 @@
+To use typescript we first must initialize a nodejs project so that we can get package.json file and then we need to install typescript as a dependency in that project (npm i -D typescript) it's recommended to install ts in dev mode so that it remains only to that project only not global scope.
+
+Now when it is installed we need to use it so to use it we need a tsconfig.json file so that file usually comes with the help of npx tsc --init this command (tsc stands for typescript compiler that converts the .ts files into .js files ), (like npm which is used to install packages , npx is used to install packages ) so using npx tsc --init we are running the typescript compiler.
